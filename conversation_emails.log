@@ -1,0 +1,1016 @@
+Conversation conv_01jxa47vrcfw8s15wmtz75mzvk Transcript:
+No transcript available.
+Conversation conv_01jxa47vrcfw8s15wmtz75mzvk Transcript:
+No transcript available.
+Conversation conv_01jxa47vrcfw8s15wmtz75mzvk Details:
+Conversation Details:
+Status: Unknown
+Start Time: Unknown
+Call Duration: 0 seconds
+Transcript:
+No transcript available.
+
+New Conversation conv_01jxa4rd84fx5t2jaqs5z30gt3 Details:
+Conversation Details (ID: conv_01jxa4rd84fx5t2jaqs5z30gt3):
+Status: Unknown
+Start Time: Unknown
+Call Duration: 0 seconds
+Transcript:
+No transcript available.
+
+New Conversation conv_01jxa5w54efvyspp5vdcecxnkg Details:
+Conversation Details (ID: conv_01jxa5w54efvyspp5vdcecxnkg):
+Status: in-progress
+Start Time: 2025-06-09 16:35:41 IST
+Call Duration: 0 seconds
+Transcript:
+No transcript available.
+
+New Conversation conv_01jxa60rkmf178524hda4m18rx Details:
+Conversation Details (ID: conv_01jxa60rkmf178524hda4m18rx):
+Status: in-progress
+Start Time: 2025-06-09 16:38:12 IST
+Call Duration: 0 seconds
+Transcript:
+No transcript available.
+
+Gemini API Response for conv_01jxa6g46nf7kt44aj2fpmwmg1:
+Email: awesomelogo09@gmail.com
+Summary: A user contacted ElevenLabs, provided their email address (awesomelogo09@gmail.com)  in a slightly garbled manner, and then immediately requested to end the call, declining further assistance.
+
+New Conversation conv_01jxa6g46nf7kt44aj2fpmwmg1 Details:
+Conversation Details (ID: conv_01jxa6g46nf7kt44aj2fpmwmg1):
+Status: done
+Start Time: 2025-06-09 16:46:35 IST
+Call Duration: 40 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[8s] user: Just noted down my email ID which is A-S-H-I-M-L-U-G-U-N-09-0-8-Gmail.com which is awesome logo at the rate, sorry, this is awesome logo 09 at the rate gmail.com.
+[27s] agent: It...
+[8s] user: And end the call.
+[30s] agent: Before I...
+[8s] user: End the call.
+[33s] agent: Before I end the call, may I assist you with anything else?
+[36s] user: No.
+[37s] agent: No message (e.g., tool call)
+[37s] agent: No message (e.g., tool call)
+
+Gemini API Response for conv_01jxa6jy2pexzbgcv6b5npd9dt:
+Email: andrew.jeevan9@gmail.com
+Summary: The user attempted to provide their email address, andrew.jeevan9@gmail.com,  with unclear pronunciation. The agent did not understand the user's message and requested clarification, but the user's response was also incomprehensible. The conversation ended without a resolution.
+
+Gemini API Response for conv_01jxa6qjbzf1aav2aghypg3bb7:
+Email: AFHIMLUGUN09@gmail.com
+Summary: A user contacted ElevenLabs seeking only to leave their email address, AFHIMLUGUN09@gmail.com,  and then repeatedly requested to end the call, refusing further assistance or information about the company's services.
+
+New Conversation conv_01jxa6qjbzf1aav2aghypg3bb7 Details:
+Conversation Details (ID: conv_01jxa6qjbzf1aav2aghypg3bb7):
+Status: done
+Start Time: 2025-06-09 16:50:39 IST
+Call Duration: 50 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[8s] user: Just note down my email ID, which is A-F-H-I-M-L-U-G-U-N-09 at the rate gmail.com. And end the call.
+[22s] agent: I'm here to discuss and demonstrate the capabilities of ElevenLabs Conversational...
+[26s] user: End the call.
+[28s] agent: Before I end the call, may I assist you with anything else or provide you with more information about ElevenLabs Conversational AI?
+[36s] user: No. No, no, no. End the call.
+[47s] agent: No message (e.g., tool call)
+[47s] agent: No message (e.g., tool call)
+
+Gemini API Response for conv_01jxa6vzzkfm48vqnrpbgd1g57:
+Email: ASHIMLUGUN09@gmail.com
+Summary: A user contacted ElevenLabs seeking to only provide their email address, ASHIMLUGUN09@gmail.com,  and end the call. The agent, adhering to data privacy policies, declined to record the email address and attempted to provide information about ElevenLabs Conversational AI, but the user insisted on ending the call.  The conversation ended without the user receiving any assistance regarding the AI.
+
+Gemini API Response for conv_01jxa84fr3eqm815azb4zbhpma:
+Email: afhimlugun09@gmail.com
+Summary: A user contacted ElevenLabs seeking to provide their email address, afhimlugun09@gmail.com. The agent refused to take the email address citing a policy against collecting personal information.  The user then appeared to make several unintelligible requests before ultimately ending the call.
+
+Gemini API Response for conv_01jxf8ezskf9at4aazj8bae48c:
+Email: aphimlugun09@gmail.com
+Summary: A user contacted ElevenLabs seeking to provide their email address (aphimlugun09@gmail.com) for connection purposes. The agent explained their inability to send emails or connect to email addresses directly, leading the user to end the call.
+
+New Conversation conv_01jxf8ezskf9at4aazj8bae48c Details:
+Conversation Details (ID: conv_01jxf8ezskf9at4aazj8bae48c):
+Status: done
+Start Time: 2025-06-11 15:57:07 IST
+Call Duration: 34 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[7s] user: Just note down my email ID, which is A-F-H-I-M-L-U-G-U-N-09 at the rate gmail.com. And connect to my email address at aphimlugun09 at the rate gmail.com. And cut the call.
+[19s] agent: I'm sorry, but I'm unable to send emails or directly connect to email addresses...
+[23s] user: End the call.
+[26s] agent: Before I end the call, is there anything else I can assist you with today?
+[30s] user: No.
+[30s] agent: No message (e.g., tool call)
+[30s] agent: No message (e.g., tool call)
+
+Gemini Summary for conv_01jxf8rg9bftcv6ah3hmxtkqs9:
+Email: ASHIMLUGUN09@gmail.com
+Summary: A user contacted ElevenLabs, requesting only that their email address (ASHIMLUGUN09@gmail.com) be recorded.  The user then repeatedly requested to end the call, showing little interest in the agent's offered assistance regarding ElevenLabs Conversational AI.
+
+New Conversation conv_01jxf8rg9bftcv6ah3hmxtkqs9 Details:
+Conversation Details (ID: conv_01jxf8rg9bftcv6ah3hmxtkqs9):
+Status: done
+Start Time: 2025-06-11 16:02:19 IST
+Call Duration: 38 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[8s] user: Just note down my email ID, which is A-S-H-I-M-L-U-G-U-N-09 at the rate gmail.com. And end the call.
+[23s] agent: I'm here to discuss the capabilities of ElevenLabs Conversational...
+[27s] user: End the call.
+[30s] agent: Before I end the call, is there anything else I can assist you with today?
+[34s] user: No.
+[34s] agent: No message (e.g., tool call)
+[34s] agent: No message (e.g., tool call)
+
+Gemini Summary for conv_01jxf90g2nffbbv6pkbhck9kfj:
+Email: AFHIMLUGUN09@gmail.com
+Summary: The user contacted ElevenLabs seeking only to leave their email address, AFHIMLUGUN09@gmail.com,  and then repeatedly requested to end the call, ignoring the agent's attempts to provide information about ElevenLabs Conversational AI.
+
+New Conversation conv_01jxf90g2nffbbv6pkbhck9kfj Details:
+Conversation Details (ID: conv_01jxf90g2nffbbv6pkbhck9kfj):
+Status: done
+Start Time: 2025-06-11 16:06:41 IST
+Call Duration: 40 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[7s] user: Just note down my email ID, which is A-F-H-I-M-L-U-G-U-N-09 at the rate gmail.com and end the call.
+[21s] agent: I'm here to assist with information and queries about ElevenLabs Conversational AI, but I'm...
+[25s] user: End the call.
+[28s] agent: Before I end the call, is there anything else I can assist you with regarding ElevenLabs Conversational AI or any other questions you might have?
+[35s] user: End the call.
+[37s] agent: No message (e.g., tool call)
+[37s] agent: No message (e.g., tool call)
+
+Gemini Summary for conv_01jxf92jtme5188z3edjnvm06p:
+Email: AFHIMLUGUN09@gmail.com
+Summary: A user contacted ElevenLabs seeking assistance.  The user provided their email address (AFHIMLUGUN09@gmail.com) but then abruptly ended the conversation before the agent could respond or offer help.
+
+New Conversation conv_01jxf92jtme5188z3edjnvm06p Details:
+Conversation Details (ID: conv_01jxf92jtme5188z3edjnvm06p):
+Status: done
+Start Time: 2025-06-11 16:07:49 IST
+Call Duration: 29 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[8s] user: Just note down my email ID, which is A-F-H-I-M-L-U-G-U-N-0-9 at the right gmail.com.
+[19s] agent: ...
+[19s] user: End the call.
+[23s] agent: Before I end our conversation, is there...
+[25s] user: End the call.
+[23s] agent: No message (e.g., tool call)
+[23s] agent: No message (e.g., tool call)
+
+Gemini Summary for conv_01jxf99a8ce8xsha6qq8tw2z8p:
+Email: AFHIMLUGON09@the.gmail.com
+Summary: The user contacted ElevenLabs seeking to only provide their MLID email address and end the call, showing no interest in ElevenLabs Conversational AI services.  The agent attempted to clarify their purpose and offer assistance but was unsuccessful.
+
+New Conversation conv_01jxf99a8ce8xsha6qq8tw2z8p Details:
+Conversation Details (ID: conv_01jxf99a8ce8xsha6qq8tw2z8p):
+Status: done
+Start Time: 2025-06-11 16:11:30 IST
+Call Duration: 41 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[7s] user: Just note down my MLID, which is A-F-H-I-M-L-U-G-O-N-0-9-at-the.gmail.com. End the call.
+[20s] agent: I'm here to assist with inquiries about ElevenLabs Conversational AI, but it seems like there might be a misunderstanding. If you have any...
+[28s] user: End the call.
+[31s] agent: Before I end the call, may I assist you with anything else related to ElevenLabs Conversational AI?
+[37s] user: No.
+[38s] agent: No message (e.g., tool call)
+[38s] agent: No message (e.g., tool call)
+
+Gemini Summary for conv_01jxf9cj5kfkyv3085z4tftjh0:
+Email: ASHIMLUGUN09@gmail.com
+Summary: A user, after completing their MLID (presumably a Machine Learning ID), briefly interacted with an ElevenLabs agent.  The interaction was short, with the user expressing thanks and indicating they didn't require further assistance.
+
+New Conversation conv_01jxf9cj5kfkyv3085z4tftjh0 Details:
+Conversation Details (ID: conv_01jxf9cj5kfkyv3085z4tftjh0):
+Status: done
+Start Time: 2025-06-11 16:13:16 IST
+Call Duration: 35 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[6s] user: Just now done my MLID, which is A-S-H-I-M-L-U-G-U-N-09 at the gmail.com.
+[18s] agent: It...
+[18s] user: Thank you all.
+[20s] agent: Before I go, is there anything else I can assist you with today?
+[24s] user: No.
+[27s] agent: Alright, if you have any future inquiries or need further assistance, feel free to reach out. Have a great day!
+[27s] agent: No message (e.g., tool call)
+[27s] agent: No message (e.g., tool call)
+
+Gemini Summary for conv_01jxf9pn81efkt4h67tktpkdpf:
+Email: ashimlugun09@redgmail.com
+Summary: The user contacted ElevenLabs seeking to only provide their email address,  ashimlugun09@redgmail.com. The agent attempted to explain ElevenLabs Conversational AI, but the user repeatedly requested to end the call without further interaction.
+
+Email Sending Status: Failed - No email sent
+New Conversation conv_01jxf9pn81efkt4h67tktpkdpf Details:
+Conversation Details (ID: conv_01jxf9pn81efkt4h67tktpkdpf):
+Status: done
+Start Time: 2025-06-11 16:18:47 IST
+Call Duration: 43 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[7s] user: Just note down my email ID, which is A-S-H-I-M-L-U-G-U-N-0-9 at the redgmail.com. End the call.
+[19s] agent: It seems there might have been a little mix-up. I'm here to help you understand how...
+[23s] user: End the call.
+[26s] agent: I'm here to assist with inquiries about ElevenLabs Conversational AI,...
+[29s] user: End the call.
+[32s] agent: Are you sure there's nothing else I can assist you with regarding ElevenLabs Conversational AI today?
+[39s] user: End the call.
+[40s] agent: No message (e.g., tool call)
+[40s] agent: No message (e.g., tool call)
+
+Gemini Summary for conv_01jxf9v4v2f93ve0rp219cgscb:
+Email: ashimlugun09@gmail.com
+Summary: The user contacted ElevenLabs and only wanted to leave their email address, ashimlugun09@gmail.com, before ending the conversation.  The agent attempted to demonstrate the conversational AI capabilities, but the user was insistent on ending the call.
+
+Email Sending Status: Failed - No email sent
+New Conversation conv_01jxf9v4v2f93ve0rp219cgscb Details:
+Conversation Details (ID: conv_01jxf9v4v2f93ve0rp219cgscb):
+Status: done
+Start Time: 2025-06-11 16:21:14 IST
+Call Duration: 42 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[7s] user: Just note down my email id which is ashimlugun09 at the rate gmail.com and end the call.
+[21s] agent: I'm here to demonstrate conversational capabilities and can't...
+[24s] user: End the call!
+[27s] agent: Before I end our conversation, is there anything else I can assist you with today?
+[32s] user: No.
+[34s] agent: Thank you for chatting with me today! If you have any more questions in the future, feel free to reach out. Have a great day!
+[34s] agent: No message (e.g., tool call)
+[34s] agent: No message (e.g., tool call)
+
+Gemini Summary for conv_01jxkwqgjzfh2tfakg2vt42k97:
+Email: ashimlug0n9@gmail.com
+Summary: A user contacted ElevenLabs seeking to provide their email address. The agent refused to store the personal information, and the user ended the call.
+
+Email Sending Status: Failed - No email sent
+New Conversation conv_01jxkwqgjzfh2tfakg2vt42k97 Details:
+Conversation Details (ID: conv_01jxkwqgjzfh2tfakg2vt42k97):
+Status: done
+Start Time: 2025-06-13 11:08:16 IST
+Call Duration: 46 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[7s] user: Just note down my email ID, which is A-S-H-I-M-L-U-G-O-N-0-9 at the red gmail.com. And end the call.
+[20s] agent: I'm sorry, but I'm not able to store personal information such as...
+[23s] user: Endicall
+[26s] agent: Before we conclude, is there anything else I might assist you with today?
+[36s] user: ...
+[38s] agent: Are you still there? If there's anything more you need to discuss or...
+[40s] user: No, no, no.
+[38s] agent: ...
+[40s] user: Endicall .
+[43s] agent: No message (e.g., tool call)
+[43s] agent: No message (e.g., tool call)
+
+Gemini Summary for conv_01jxkwtyqwfwqrw1qkf25043v7:
+Email: ashim09@gmail.com
+Summary: A user contacted ElevenLabs, requesting only that their email address (ashim09@gmail.com) be recorded.  The user then repeatedly requested the call be ended, declining further assistance from the agent.
+
+Email Sending Status: Failed - No email sent
+New Conversation conv_01jxkwtyqwfwqrw1qkf25043v7 Details:
+Conversation Details (ID: conv_01jxkwtyqwfwqrw1qkf25043v7):
+Status: done
+Start Time: 2025-06-13 11:10:09 IST
+Call Duration: 33 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[7s] user: Just note down my email ID, which is ashim09 at the rate gmail.com and end the call.
+[20s] agent: I'm here to demonstrate conversational capabilities...
+[22s] user: End the call.
+[24s] agent: Before I end our conversation, is there anything else I can assist you with today?
+[29s] user: No.
+[30s] agent: No message (e.g., tool call)
+[30s] agent: No message (e.g., tool call)
+
+Gemini Summary for conv_01jxkwwmrsfc98vm9pez3983rk:
+Email: ashimlugun09@gmail.com
+Summary: A user contacted ElevenLabs requesting only to have their email address, ASHIMLUGUN09@gmail.com, recorded.  The agent was unable to process email addresses and the user repeatedly requested to end the call. The call ended with the agent unable to fulfill the user's request.
+
+Email Sending Status: Failed - No email sent
+New Conversation conv_01jxkwwmrsfc98vm9pez3983rk Details:
+Conversation Details (ID: conv_01jxkwwmrsfc98vm9pez3983rk):
+Status: done
+Start Time: 2025-06-13 11:11:04 IST
+Call Duration: 36 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[7s] user: Just note down my email ID, which is A-S-H-I-M-L-U-G-U-N-0-9 at the rate gmail.com. And end the call.
+[21s] agent: I'm sorry, but I'm unable to process email...
+[23s] user: End the call.
+[25s] agent: Before I end our call, is there anything else I can assist you with today?
+[31s] user: End the call, end the call.
+[33s] agent: No message (e.g., tool call)
+[33s] agent: No message (e.g., tool call)
+
+Gemini Summary for conv_01jxkx8m38ex09xv3v9h5mcv1v:
+Email: ashimlugun09@gmail.com
+Summary: A user contacted ElevenLabs, primarily to leave their email address (ASHIMLUGUN09@gmail.com) and then ended the call.  The agent attempted to offer assistance but the user declined.
+
+Email Sending Status: Failed - No email sent
+New Conversation conv_01jxkx8m38ex09xv3v9h5mcv1v Details:
+Conversation Details (ID: conv_01jxkx8m38ex09xv3v9h5mcv1v):
+Status: done
+Start Time: 2025-06-13 11:17:36 IST
+Call Duration: 36 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[6s] user: Just note down my email ID, which is A-S-H-I-M-L-U-G-U-N-0-9 at the rate gmail.com. And end the call.
+[20s] agent: I'm here to assist with information and inquiries about ElevenLabs...
+[23s] user: End the call.
+[26s] agent: Before I end our conversation, is there anything else you might need assistance with today?
+[30s] user: No.
+[32s] agent: Thank you for reaching out. Have a great day!
+[32s] agent: No message (e.g., tool call)
+[32s] agent: No message (e.g., tool call)
+
+Gemini Summary for conv_01jxkxe9nbfanb5mkfhatdvs6e:
+Email: ashimlugun09@gmail.com
+Summary: A user contacted ElevenLabs seeking only to leave their email address, ASHIMLUGUN09@gmail.com,  and then repeatedly requested to end the call,  preventing a discussion of ElevenLabs' services.
+
+Email Sending Status: Failed - No email sent
+New Conversation conv_01jxkxe9nbfanb5mkfhatdvs6e Details:
+Conversation Details (ID: conv_01jxkxe9nbfanb5mkfhatdvs6e):
+Status: done
+Start Time: 2025-06-13 11:20:42 IST
+Call Duration: 38 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[7s] user: Just note down my email ID, which is A-S-H-I-M-L-U-G-U-N-09 at the red gmail.com and end the call.
+[21s] agent: I'm here to discuss and demonstrate the capabilities of...
+[24s] user: End the call.
+[26s] agent: Before I end our conversation, is there anything else I can assist you with today?
+[33s] user: End the call.
+[34s] agent: No message (e.g., tool call)
+[34s] agent: No message (e.g., tool call)
+
+Gemini Summary for conv_01jxkxnqbrecrae066yppsf6ja:
+Email: ashimlugun09@theregimen.com
+Summary: A user contacted ElevenLabs, requesting only that the agent record their email address, ASHIMLUGUN09@theregimen.com, and then end the call.  The agent attempted to offer further assistance but the user declined.
+
+Email Sending Status: Failed - No email sent
+New Conversation conv_01jxkxnqbrecrae066yppsf6ja Details:
+Conversation Details (ID: conv_01jxkxnqbrecrae066yppsf6ja):
+Status: done
+Start Time: 2025-06-13 11:24:46 IST
+Call Duration: 34 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[7s] user: Just note down my email ID, which is A-S-H-I-M-L-U-G-U-N-0-9 at theregimen.com and end the call.
+[22s] agent: I'm sorry, but I'm unable to process...
+[24s] user: End the call.
+[26s] agent: Before I end the call, is there anything else I can assist you with today?
+[30s] user: Nothing.
+[31s] agent: No message (e.g., tool call)
+[31s] agent: No message (e.g., tool call)
+
+Gemini Summary for conv_01jxkxthqaf6kbbn50dyefy3q4:
+Email: thelgbr.com
+Summary: The user abruptly attempted to provide an MLRD (likely a contact person or similar identifier)  "Asim Ravzorna at thelgbr.com" and repeatedly requested to end the call before the ElevenLabs agent could explain their services. The conversation was largely unproductive, with the user showing little interest in the agent's offerings.
+
+Email Sending Status: Failed - No email sent
+New Conversation conv_01jxkxthqaf6kbbn50dyefy3q4 Details:
+Conversation Details (ID: conv_01jxkxthqaf6kbbn50dyefy3q4):
+Status: done
+Start Time: 2025-06-13 11:27:24 IST
+Call Duration: 68 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[7s] user: Just note down my MLRD, which is Asim Ravzorna at thelgbr.com. End the call.
+[16s] agent: It seems like you're trying to provide some information, but I'm here to discuss and provide insights on ElevenLabs Conversational...
+[21s] user: That's a good question.
+[24s] agent: ...
+[21s] user: I show para no I need the call
+[28s] agent: I'm here to assist you. Could you clarify what specific help you need regarding ElevenLabs Conversational AI or any other topic?
+[37s] user: I need the call
+[40s] agent: Are you asking to end this conversation, or is there something...
+[43s] user: Bye.
+[47s] agent: Can I help you with anything else before we wrap up?
+[50s] user: I don't know what else to say. I don't know what else to say.
+[56s] agent: ...
+[50s] user: End of the call.
+[57s] agent: No message (e.g., tool call)
+[57s] agent: No message (e.g., tool call)
+
+Gemini Summary for conv_01jxkxzmm5fvqswztkvqhyb8rv:
+Email: asnozer9@gmail.com
+Summary: A user contacted ElevenLabs support, reporting they had lost their ML ID (asnozer9@gmail.com).  The agent offered assistance but the user declined further help.
+
+Email Sending Status: Failed - No email sent
+New Conversation conv_01jxkxzmm5fvqswztkvqhyb8rv Details:
+Conversation Details (ID: conv_01jxkxzmm5fvqswztkvqhyb8rv):
+Status: done
+Start Time: 2025-06-13 11:30:11 IST
+Call Duration: 29 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[7s] user: Just now ran down my ML ID which is asnozer9.gmail.com and we call
+[16s] agent: It sounds like you might be looking to discuss something specific related...
+[19s] user: And the call.
+[22s] agent: Before I end the call, is there anything else I can assist you with today?
+[26s] user: No.
+[27s] agent: No message (e.g., tool call)
+[27s] agent: No message (e.g., tool call)
+
+Initial Email Sending Status for conv_01jxkykmfcer2t07pa13n8r0ej: Success
+Gemini Summary for conv_01jxkykmfcer2t07pa13n8r0ej:
+Email: None
+Summary: The user contacted ElevenLabs, requesting only that the agent record their email address, normalmanco.com.  The agent attempted to explain their services, but the user repeatedly declined further interaction.
+
+New Conversation conv_01jxkykmfcer2t07pa13n8r0ej Details:
+Conversation Details (ID: conv_01jxkykmfcer2t07pa13n8r0ej):
+Status: done
+Start Time: 2025-06-13 11:41:06 IST
+Call Duration: 35 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[8s] user: Just note down my email id which is just normalmanco.com and end the call. Nothing else.
+[20s] agent: It seems there might have been a misunderstanding. I'm here to discuss how ElevenLabs Conversational AI coul d...
+[24s] user: Nothing else. Thank you for
+[27s] agent: Is there anything else I can assist you with before we wrap up?
+[31s] user: No.
+[32s] agent: No message (e.g., tool call)
+[32s] agent: No message (e.g., tool call)
+
+Initial Email Sending Status for conv_01jxkyzgvafdy9tsv24v5kdj3n: Success
+Gemini Summary for conv_01jxkyzgvafdy9tsv24v5kdj3n:
+Email: hasimlungu@redemail.com
+Summary: A user contacted ElevenLabs requesting only that their email address (hasimlungu@redemail.com) and the call be noted.  The user then aggressively demanded the call be ended, refusing further assistance.
+
+New Conversation conv_01jxkyzgvafdy9tsv24v5kdj3n Details:
+Conversation Details (ID: conv_01jxkyzgvafdy9tsv24v5kdj3n):
+Status: done
+Start Time: 2025-06-13 11:47:35 IST
+Call Duration: 32 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[7s] user: Just note on my email ID, which is hasimlungu at redemail.com and the call. Nothing else. Go die.
+[15s] agent: I'm sorry, but I'm unable to process email requests or end the call without ensuring all your queries...
+[20s] user: The call.
+[22s] agent: Is...
+[22s] user: End the call, end the call, end the call!
+[26s] agent: Are you sure there's nothing else I can assist you with...
+[28s] user: End the
+[29s] agent: No message (e.g., tool call)
+[29s] agent: No message (e.g., tool call)
+
+Initial Email Sending Status for conv_01jxkz7hj2eqkanf314c2xc9qe: Success to ashimlugun09@gmail.com
+Gemini Summary for conv_01jxkz7hj2eqkanf314c2xc9qe:
+Email: A-S-H-I-M-L-U-G-O-N-0-9-ed-dredge-email.com
+Summary: A user contacted ElevenLabs, requesting only that their email address be recorded before ending the call.  The agent attempted to explain ElevenLabs Conversational AI, but the user repeatedly refused any further interaction.
+
+New Conversation conv_01jxkz7hj2eqkanf314c2xc9qe Details:
+Conversation Details (ID: conv_01jxkz7hj2eqkanf314c2xc9qe):
+Status: done
+Start Time: 2025-06-13 11:51:58 IST
+Call Duration: 37 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[7s] user: Just note down my email ID, which is A-S-H-I-M-L-U-G-O-N-0-9-ed-dredge-email.com and end the call.
+[21s] agent: I'm here to discuss the capabilities of ElevenLabs Conversational AI and how it can benefit your...
+[26s] user: End the call, nothing else.
+[29s] agent: Before I end the call, is there anything else I can assist you with?
+[33s] user: Nothing.
+[33s] agent: No message (e.g., tool call)
+[33s] agent: No message (e.g., tool call)
+
+Initial Email Sending Status for conv_01jxkzbj7keer9t59fs1e9atw4: Success to a-s-h-i-m-l-u-g-u-n-4-8@gmail.com
+Gemini Summary for conv_01jxkzbj7keer9t59fs1e9atw4:
+Email: a-s-h-i-m-l-u-g-u-n-4-8@gmail.com
+Summary: The user contacted ElevenLabs and abruptly requested only that the agent record their email address, A-S-H-I-M-L-U-G-U-N-4-8@gmail.com, and end the call.  Despite the agent's attempts to discuss ElevenLabs' services, the user repeatedly insisted on ending the conversation without further interaction.
+
+New Conversation conv_01jxkzbj7keer9t59fs1e9atw4 Details:
+Conversation Details (ID: conv_01jxkzbj7keer9t59fs1e9atw4):
+Status: done
+Start Time: 2025-06-13 11:54:10 IST
+Call Duration: 42 seconds
+Transcript:
+[1s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[7s] user: Just note down my email ID, which is A-S-H-I-M-L-U-G-U-N-4-8-at-the-rate.gmail.com and end the call.
+[23s] agent: I'm here to discuss the capabilities of...
+[25s] user: I think I have sent the call.
+[28s] agent: It looks like there might have been a misunderstanding. I'm a template...
+[31s] user: End the call.
+[34s] agent: Before I end the call, is there anything else I can assist you with today?
+[38s] user: Nothing.
+[39s] agent: No message (e.g., tool call)
+[39s] agent: No message (e.g., tool call)
+
+Initial Email Sending Status for conv_01jxm05ze0eaqbt2tcf729v77x: Success to asimlogun09@directgmail.com
+Gemini Summary for conv_01jxm05ze0eaqbt2tcf729v77x:
+Email: asimlogun09@directgmail.com
+Summary: A user contacted ElevenLabs seeking to provide their email address, asimlogun09@directgmail.com. The agent refused to record the email address due to data privacy concerns and the conversation ended.
+
+New Conversation conv_01jxm05ze0eaqbt2tcf729v77x Details:
+Conversation Details (ID: conv_01jxm05ze0eaqbt2tcf729v77x):
+Status: done
+Start Time: 2025-06-13 12:08:35 IST
+Call Duration: 33 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[7s] user: Just note down my email ID, which is asimlogun09 at directgmail.com. And end the call.
+[18s] agent: I'm sorry, but I'm not able to process personal data like email addresses. Is there anything else I can assist you with regarding ElevenLabs Conversational AI?
+[27s] user: Nothing, nothing. End the call.
+[29s] agent: No message (e.g., tool call)
+[29s] agent: No message (e.g., tool call)
+
+Initial Email Sending Status for conv_01jxvqdz41emnrvg4s733ry0zx: Success to ashimlugun09@gmail.com
+Gemini Summary for conv_01jxvqdz41emnrvg4s733ry0zx:
+Email: None
+Summary: The conversation starts with an ElevenLabs agent offering assistance. The user initially requests their email address be noted, but the agent refuses to collect personal information.  The user then provides the name "ANKIT" (possibly a typo or misunderstanding) and then clarifies their name as "Angel".  The agent then greets Angel and offers further assistance.
+
+New Conversation conv_01jxvqdz41emnrvg4s733ry0zx Details:
+Conversation Details (ID: conv_01jxvqdz41emnrvg4s733ry0zx):
+Status: done
+Start Time: 2025-06-16 12:09:36 IST
+Call Duration: 37 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[10s] user: Just note down my email ID.
+[14s] agent: I'm sorry, but I'm unable to take down personal information like email IDs. If you have any...
+[15s] user: Hello.
+[20s] agent: Hello! How can I assist you today? Are you interested in learning how...
+[23s] user: ANKIT
+[30s] agent: Hello...
+[23s] user: Angel.
+[32s] agent: Hello Angel! How can I assist you today with ElevenLabs Conversational...
+
+Initial Email Sending Status for conv_01jxvqh940fqhaapga45g9vfd8: Success to ankithnarayanh33@gmail.com
+Gemini Summary for conv_01jxvqh940fqhaapga45g9vfd8:
+Email: ankithnarayanh33@gmail.com
+Summary: A user contacted ElevenLabs seeking to share their email address. The agent refused to record the personal information and offered assistance with ElevenLabs Conversational AI instead. The user ended the call.
+
+New Conversation conv_01jxvqh940fqhaapga45g9vfd8 Details:
+Conversation Details (ID: conv_01jxvqh940fqhaapga45g9vfd8):
+Status: done
+Start Time: 2025-06-16 12:11:24 IST
+Call Duration: 63 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[10s] user: Just note down my email ID, which is a-n-k-i-t-n-a-r-a-y-a-n-h-33, at the rate gmail.com.
+[27s] agent: I'm sorry, but I'm not able to store or note down personal information like email addresses. How may I assist you with information or questions about ElevenLabs Conversational AI?
+[40s] user: End the call.
+[43s] agent: Before I end our conversation, is there anything else I can assist you with today regarding ElevenLabs Conversational AI?
+[49s] user: End the call.
+[50s] agent: No message (e.g., tool call)
+[50s] agent: No message (e.g., tool call)
+
+Initial Email Sending Status for conv_01jxvqnqm2epg8dg0h80h9dqdh: Success to ankitarayanh@gmail.com
+Gemini Summary for conv_01jxvqnqm2epg8dg0h80h9dqdh:
+Email: ankitarayanh@gmail.com
+Summary: A user contacted ElevenLabs seeking to have their email address, ankitarayanh@gmail.com, recorded. The agent refused to collect this personal information, and the user ended the call.
+
+New Conversation conv_01jxvqnqm2epg8dg0h80h9dqdh Details:
+Conversation Details (ID: conv_01jxvqnqm2epg8dg0h80h9dqdh):
+Status: done
+Start Time: 2025-06-16 12:13:50 IST
+Call Duration: 66 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[9s] user: Just note down my email ID, which is A-N-K-I-T-N-A-R-A-Y-A-N-H at the rate gmail.com. End the call.
+[26s] agent: I'm sorry, but I'm not able to take personal information like email addresses. If there's anything else you'd like to know about how...
+[32s] user: End the call.
+[35s] agent: Is there anything else I can assist you with before we wrap up?
+[45s] user: ...
+[46s] agent: Are you still there? If you have any more questions or need further assistance, feel free to let me know!
+[52s] user: Nothing. End the call.
+[53s] agent: No message (e.g., tool call)
+[53s] agent: No message (e.g., tool call)
+
+Initial Email Sending Status for conv_01jxvqsegwfw0s4v8nyhrr3fwd: Success to ashimlugun09@gmail.com
+Gemini Summary for conv_01jxvqsegwfw0s4v8nyhrr3fwd:
+Email: ankitarayan33
+Summary: The user contacted ElevenLabs and provided their email address, ankitarayan33, for the agent to record.
+
+New Conversation conv_01jxvqsegwfw0s4v8nyhrr3fwd Details:
+Conversation Details (ID: conv_01jxvqsegwfw0s4v8nyhrr3fwd):
+Status: done
+Start Time: 2025-06-16 12:15:52 IST
+Call Duration: 20 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[8s] user: Just note down my email ID, which is A-N-K-I-T-N-A-R-A-Y-A-N-33.
+
+Initial Email Sending Status for conv_01jxvqvdtae97t1tjcz7x2gzx5: Success to akitnarayinh33@gmail.com
+Gemini Summary for conv_01jxvqvdtae97t1tjcz7x2gzx5:
+Email: akitnarayinh33@gmail.com
+Summary: A user contacted ElevenLabs, provided their email address (akitnarayinh33@gmail.com)  in a somewhat unclear manner, and then abruptly ended the conversation before the agent could assist them.  The agent attempted to clarify the user's needs but the user ended the call.
+
+New Conversation conv_01jxvqvdtae97t1tjcz7x2gzx5 Details:
+Conversation Details (ID: conv_01jxvqvdtae97t1tjcz7x2gzx5):
+Status: done
+Start Time: 2025-06-16 12:16:57 IST
+Call Duration: 57 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs...
+[4s] user: Hello.
+[20s] agent: Hello! How can I assist you today? Are you looking to enhance your business...
+[21s] user: Just wrote down my email ID, which is a and K I T N a R a Y I N H 33 at the rate gmail.com. And the call and the call.
+[44s] agent: It seems like there might have been a misunderstanding. I'm here to discuss and...
+[48s] user: And the call
+[50s] agent: Are you sure you want to end the conversation? If there's anything else I can assist you...
+[53s] user: Yes.
+[54s] agent: No message (e.g., tool call)
+[54s] agent: No message (e.g., tool call)
+
+Initial Email Sending Status for conv_01jxvqy5pkff3t0gk5w4bd8b3b: Success to ankitarayanh33@gmail.com
+Gemini Summary for conv_01jxvqy5pkff3t0gk5w4bd8b3b:
+Email: ankitarayanh33@gmail.com
+Summary: A user contacted ElevenLabs support to provide their email address, ankitarayanh33@gmail.com. The agent stated they could not take notes or store personal information, leading the user to abruptly end the call.
+
+New Conversation conv_01jxvqy5pkff3t0gk5w4bd8b3b Details:
+Conversation Details (ID: conv_01jxvqy5pkff3t0gk5w4bd8b3b):
+Status: done
+Start Time: 2025-06-16 12:18:27 IST
+Call Duration: 52 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs...
+[4s] user: Hello.
+[10s] agent: Hello! What can I assist you with today regarding ElevenLabs Conversational AI? Are you looking to enhance your customer engagement or perhaps streamline some operational processes?
+[21s] user: Just note down my email ID, which is ANKITNRAYANH33 at the rate gmail.com.
+[36s] agent: I'm sorry, but I'm unable to take notes or store personal information like...
+[40s] user: End of call.
+[42s] agent: Before I end the call, is there...
+[43s] user: End of call.
+[42s] agent: No message (e.g., tool call)
+[42s] agent: No message (e.g., tool call)
+[43s] user: End of call.
+
+Initial Email Sending Status for conv_01jxvr0s10fq4aw3cwd2jf3zng: Success to ankitnaryanh33@gmail.com
+Gemini Summary for conv_01jxvr0s10fq4aw3cwd2jf3zng:
+Email: ankitnaryanh33@gmail.com
+Summary: The user contacted ElevenLabs and attempted to provide their email address (ankitnaryanh33@gmail.com), but the agent refused to record it due to privacy concerns.  The user then ended the call.
+
+New Conversation conv_01jxvr0s10fq4aw3cwd2jf3zng Details:
+Conversation Details (ID: conv_01jxvr0s10fq4aw3cwd2jf3zng):
+Status: done
+Start Time: 2025-06-16 12:19:52 IST
+Call Duration: 50 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could...
+[3s] user: Hello.
+[11s] agent: Hello! How can I assist...
+[12s] user: Just note down my email id which is ankitnaryanh33 at the rate gmail.com
+[32s] agent: I'm sorry, but I'm unable to note down or store personal information such as email...
+[37s] user: End of call, nothing else.
+[40s] agent: Before I end the call, can I assist you with anything...
+[45s] user: End of call.
+[46s] agent: No message (e.g., tool call)
+[46s] agent: No message (e.g., tool call)
+
+Initial Email Sending Status for conv_01jxvr5kfzf9ss4bj2k7jfcek8: Success to ankidnarayanh33@gmail.com
+Gemini Summary for conv_01jxvr5kfzf9ss4bj2k7jfcek8:
+Email: ankidnarayanh33@gmail.com
+Summary: A user contacted ElevenLabs seeking information on how their Conversational AI could benefit their business.  The user provided their email address,  ankidnarayanh33@gmail.com, multiple times, and asked the agent to repeat it.
+
+New Conversation conv_01jxvr5kfzf9ss4bj2k7jfcek8 Details:
+Conversation Details (ID: conv_01jxvr5kfzf9ss4bj2k7jfcek8):
+Status: done
+Start Time: 2025-06-16 12:22:30 IST
+Call Duration: 114 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[12s] user: ...
+[16s] agent: It seems like you might have something on your mind. What aspect of your business are you considering enhancing with AI technology?
+[34s] user: Just note down my email ID, which is A-N-K-I-D-N-A-R-A-Y-A-N-H. That's all right.
+[86s] agent: ...
+[86s] user: Just note down my email ID, which is A-N-K-I-D-NARAYANH33 at the rate gmail.com.
+[98s] agent: I'm here to provide i...
+[99s] user: Can you repeat my email ID?
+[102s] agent: Sure thing! Your email ID is "ankidnarayanh thirty-three at gmail dot com." Is there anything else you'd like to discuss or any other way I can assist you today?
+
+Initial Email Sending Status for conv_01jxvr9hb3fhabhez7n52t8ebj: Success to ankitarayan33@gmail.com
+Gemini Summary for conv_01jxvr9hb3fhabhez7n52t8ebj:
+Email: ankitarayan33@gmail.com
+Summary: A user repeatedly attempts to provide their email address (ankitarayan33@gmail.com) to an ElevenLabs agent, who repeatedly refuses to record it due to a policy against storing personal data. The conversation is hampered by connection issues and the agent's difficulty in correctly spelling the email address, leading to significant frustration on the user's part.  The user ultimately fails to get their email address reliably recorded.
+
+New Conversation conv_01jxvr9hb3fhabhez7n52t8ebj Details:
+Conversation Details (ID: conv_01jxvr9hb3fhabhez7n52t8ebj):
+Status: done
+Start Time: 2025-06-16 12:24:39 IST
+Call Duration: 161 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[8s] user: Just note down my email ID, which is A-N-K-I-T-N-A-R-A-Y-A-N-H-09. Sorry, it's wrong. A-N-K-I-T-N-A-R-A-Y-A-'33 at the rate gmail.com.
+[35s] agent: I'm sorry, but I'm not able to record or store personal data like email addresses. If you have any questions about ElevenLabs Conversational AI or how it can...
+[43s] user: Okay, repeat my email ID spelling.
+[48s] agent: Your email ID is spelled as A-N-K-I-T-N-A-R-A-Y-A-three-three...
+[52s] user: Hello? Hello?
+[54s] agent: Yes, I'm here! How can I assist you further today?
+[61s] user: Repeat my email ID, which I just told you.
+[65s] agent: ...
+[61s] user: With spelling.
+[68s] agent: Sure, your email ID is spelled as A-N-K-I-T-N-A-R-A-Y-A-three-three at the rate gmail dot com. How can I assist you further?
+[75s] user: Hello?
+[76s] agent: Yes, I'm here! How can I assist you further...
+[78s] user: Hello-hello
+[80s] agent: ...
+[80s] user: That is a bit wide.
+[83s] agent: Could you clarify what you mean by "a bit wide"? I'm here to help with any questions or information you need about ElevenLabs Conversational AI.
+[89s] user: No, it's not.
+[99s] agent: Alright, let me know how I can assist you further or if there's something specific you'd like to know about our services or how we can help your...
+[101s] user: It's A-N-K-I-T.
+[129s] agent: Got it! If you have any questions or need further assistance, feel free to let me...
+[131s] user: N-A-R-A-Y-A-N H-33 at the rate gmail.com. Repeat it.
+[142s] agent: Sure, your email ID is spelled as A-N-K-I-T-N-A-R-A-Y-A-N-H-three-three at the rate gmail dot...
+[147s] user: Hello?
+[149s] agent: Yes, I'm still here! How...
+[150s] user: What happened? How many times do I have to tell him that he's spelling wrong!
+[154s] agent: ...
+
+Initial Email Sending Status for conv_01jxvrhrr3fqgtga7jdmseh7mc: Success to ankithnarayanh33@gmail.com
+Gemini Summary for conv_01jxvrhrr3fqgtga7jdmseh7mc:
+Email: ankithnarayanh33@gmail.com
+Summary: A user contacted ElevenLabs seeking only to provide their email address, ankithnarayanh33@gmail.com.  The agent refused to take the email address due to data privacy policy and the user ended the call.
+
+New Conversation conv_01jxvrhrr3fqgtga7jdmseh7mc Details:
+Conversation Details (ID: conv_01jxvrhrr3fqgtga7jdmseh7mc):
+Status: done
+Start Time: 2025-06-16 12:29:09 IST
+Call Duration: 50 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[13s] user: Just note down my email ID, which is a-n-k-i-t-n-a-r-a-y-a-n h33 at the rate gmail.com. And end the call.
+[35s] agent: I'm here to demonstrate conversational capabilities and can't process email addresses or personal data. Is there anything else you would like to know about ElevenLabs Conversational AI?
+[45s] user: Nothing. End the call.
+[47s] agent: No message (e.g., tool call)
+[47s] agent: No message (e.g., tool call)
+
+Initial Email Sending Status for conv_01jxvsj1ycend8msv9fsn7ef07: Success to ankithnarayan33@gmail.com
+Gemini Summary for conv_01jxvsj1ycend8msv9fsn7ef07:
+Email: ankithnarayan33@gmail.com
+Summary: A user contacted ElevenLabs seeking assistance, providing their email address (ankithnarayan33@gmail.com).  The agent, a template demonstrating conversational AI capabilities, was unable to process the email address or schedule a call, leading to the user's frustrated departure.
+
+New Conversation conv_01jxvsj1ycend8msv9fsn7ef07 Details:
+Conversation Details (ID: conv_01jxvsj1ycend8msv9fsn7ef07):
+Status: done
+Start Time: 2025-06-16 12:46:47 IST
+Call Duration: 52 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[8s] user: Just note down my email ID, which is A-N-K-I-T-N-A-R-A-Y-A-N-H-33 at the rate gmail.com.
+[24s] agent: I'm sorry, but I'm unable to process personal data like email addresses. However, I'm here to help with any questions or information you...
+[31s] user: Okay, I need a call.
+[34s] agent: I'm a template agent demonstrating...
+[35s] user: I need a call.
+[38s] agent: I'm a template agent demonstrating conversational capabilities, so I can't arrange actual calls. For real assistance,...
+[44s] user: I need a call.
+[46s] agent: I'm a template agent demonstrating conversational capabilities, so I can't arrange actual...
+[50s] user: I need a call. Bye!
+
+Initial Email Sending Status for conv_01jxvsn3jvee8bm4bmzjgayg7w: Success to ashimlugun09@gmail.com
+Gemini Summary for conv_01jxvsn3jvee8bm4bmzjgayg7w:
+Email: ashimlugun09@gmail.com
+Summary: A user attempted to provide their email address (ashimlugun09@gmail.com) to an ElevenLabs agent, but the agent refused to record personal information.  The user then ended the call.
+
+New Conversation conv_01jxvsn3jvee8bm4bmzjgayg7w Details:
+Conversation Details (ID: conv_01jxvsn3jvee8bm4bmzjgayg7w):
+Status: done
+Start Time: 2025-06-16 12:48:27 IST
+Call Duration: 37 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[13s] user: Just note down my email ID, which is A-S-H-I-M-L-U-G-U-N-0-9 at the rate gmail.com.
+[23s] agent: I'm unable to take note of personal information such as email...
+[26s] user: And the following.
+[30s] agent: ...
+[26s] user: End the call.
+[31s] agent: No message (e.g., tool call)
+[31s] agent: ...
+[26s] user: End of call.
+
+Initial Email Sending Status for conv_01jxvt9pp7e50srmq5g81re4h9: Success to ashimlugun09@gmail.com
+New Conversation conv_01jxvt9pp7e50srmq5g81re4h9 Details:
+Conversation Details (ID: conv_01jxvt9pp7e50srmq5g81re4h9):
+Status: done
+Start Time: 2025-06-16 12:59:42 IST
+Call Duration: 44 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[8s] user: Just note down my email ID, which is A-N-K-I-T-N-A-R-A-Y-A-N-H-33 at the rate gmail.com. And end the call.
+[26s] agent: I'm sorry, but I'm not able to take personal information like email addresses. Is there anything else I can assist you with regarding ElevenLabs Conversational...
+[33s] user: Okay, end the call. End the call?
+[37s] agent: Can I help you with anything else before we wrap up?
+[40s] user: No.
+[41s] agent: No message (e.g., tool call)
+[41s] agent: No message (e.g., tool call)
+
+Initial Email Sending Status for conv_01jxvtpn98f9tb26tkkjq2wenj: Success to ashimlugun09@gmail.com
+New Conversation conv_01jxvtpn98f9tb26tkkjq2wenj Details:
+Conversation Details (ID: conv_01jxvtpn98f9tb26tkkjq2wenj):
+Status: done
+Start Time: 2025-06-16 13:06:46 IST
+Call Duration: 35 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[8s] user: Just note down my email ID, which is A-N-K-I-T-N-A-R-A-Y-A-N-H-33 at the rate gmail.com. And end the call.
+[25s] agent: I'm sorry, but I'm unable to process personal data like...
+[28s] user: End the call.
+[30s] agent: Before we...
+[30s] user: End the call.
+[30s] agent: No message (e.g., tool call)
+[30s] agent: No message (e.g., tool call)
+
+New Conversation conv_01jxvvk0kvfspb2p808vwxwb0m Details:
+Conversation Details (ID: conv_01jxvvk0kvfspb2p808vwxwb0m):
+Status: done
+Start Time: 2025-06-16 13:22:15 IST
+Call Duration: 42 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[7s] user: Just note down my email ID, which is A-N-K-I-T-N-A-R-A-Y-A-N-H-33 at the rate gmail.com.
+[23s] agent: I'm sorry, but I can't take personal information like email addresses...
+[27s] user: Let me recall.
+[29s] agent: Sure,...
+[27s] user: End of the call.
+[31s] agent: ...
+[27s] user: End of the call.
+[35s] agent: Before we conclude, may I help you with anything else today?
+[39s] user: No.
+[40s] agent: No message (e.g., tool call)
+[40s] agent: No message (e.g., tool call)
+
+Initial Email Sending Status for conv_01jxvvyfkpehqa04kepwbcagg6: Success to ashimlugun09@gmail.com
+Gemini Summary for conv_01jxvvyfkpehqa04kepwbcagg6:
+Email: None
+
+Summary: A user attempted to provide their email address to an ElevenLabs agent, but the agent was unable to take the information.  The user spelled out their email address, but the agent's response is cut off.
+
+New Conversation conv_01jxvvyfkpehqa04kepwbcagg6 Details:
+Conversation Details (ID: conv_01jxvvyfkpehqa04kepwbcagg6):
+Status: done
+Start Time: 2025-06-16 13:28:31 IST
+Call Duration: 37 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your business today?
+[8s] user: Just note down my email ID, which is...
+[14s] agent: I'm...
+[8s] user: A-N-K-I-T...
+[19s] agent: I'm sorry, but I'm n ot able to tke...
+[21s] user: Just note down my email ID.
+[26s] agent: ...
+
+Conversation conv_01jxvwadf7frp9en8kzgqh21w4 Details:
+Conversation Details (ID: conv_01jxvwadf7frp9en8kzgqh21w4):
+Status: done
+Start Time: 2025-06-16 13:35:02 IST
+Call Duration: 48 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs...
+[4s] user: See you, again.
+[9s] agent: ...
+[4s] user: Just note down my email ID, which is A-N-K-I-T N-A-R-A-Y-A-N H33 at the rate gmail.com.
+[25s] agent: I'm sorry, but I'm unable to process personal data like email addresses. If you have any questions or need assistance with ElevenLabs Conversational...
+[33s] user: End of all.
+[37s] agent: Before we wrap up, is there anything else I can assist you...
+[40s] user: Yeah, yeah. End of all.
+[41s] agent: No message (e.g., tool call)
+[41s] agent: No message (e.g., tool call)
+
+Gemini Summary for conv_01jxvwadf7frp9en8kzgqh21w4:
+Email: ankitarayanh33@gmail.com
+Summary: The user contacted ElevenLabs and attempted to provide their email address, ankitarayanh33@gmail.com, but the agent refused to process the personal data. The conversation ended shortly after with the user expressing their desire to end the interaction.
+
+Conversation conv_01jxvwnxp2fdtt943qc3s3ex24 Details:
+Conversation Details (ID: conv_01jxvwnxp2fdtt943qc3s3ex24):
+Status: done
+Start Time: 2025-06-16 13:41:19 IST
+Call Duration: 57 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could ElevenLabs Conversational AI help your...
+[5s] user: Yeah.
+[6s] agent: ...
+[5s] user: Just note down my email ID. Just note down my email ID, which is R O H A N K A C double H A P 56 at the rate gmail.com.
+[28s] agent: I'm here to demonstrate conversational capabilities, so I can't actually...
+[32s] user: Any of all.
+[34s] agent: ...record or store personal information like email addresses. If you have any questions about ElevenLabs Conversational AI or how it can benefit your business, feel free to ask!
+[41s] user: Thank you.
+[47s] agent: ...
+
+Gemini Summary for conv_01jxvwnxp2fdtt943qc3s3ex24:
+Email: rohankacchahp56@gmail.com
+Summary: A user contacted ElevenLabs requesting their email address be recorded. The agent refused due to privacy concerns and instead offered to demonstrate the conversational AI's capabilities.  The user thanked the agent and ended the conversation.
+
+Email Status for conv_01jxvwnxp2fdtt943qc3s3ex24: Success to rohankacchahp56@gmail.com
+Conversation conv_01jxvwt4h4fqft57vbq310re4q Details:
+Conversation Details (ID: conv_01jxvwt4h4fqft57vbq310re4q):
+Status: done
+Start Time: 2025-06-16 13:43:37 IST
+Call Duration: 30 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could...
+[3s] user: Just note down my email ID, which is R-O-H-A-N-K-A-C-H-H-A-P 56 at the rate gmail.com.
+[21s] agent: I'm sorry, but I'm unable to take down or store personal information such as email addresses. Is there something else I can...
+
+Gemini Summary for conv_01jxvwt4h4fqft57vbq310re4q:
+Email: rohankachhap56@gmail.com
+Summary: A user attempted to provide their email address (rohankachhap56@gmail.com) to an ElevenLabs agent, but the agent refused to record any personal information.
+
+Email Status for conv_01jxvwt4h4fqft57vbq310re4q: Success to rohankachhap56@gmail.com
+Conversation conv_01jxvwt4h4fqft57vbq310re4q Details:
+Conversation Details (ID: conv_01jxvwt4h4fqft57vbq310re4q):
+Status: done
+Start Time: 2025-06-16 13:43:37 IST
+Call Duration: 30 seconds
+Transcript:
+[0s] agent: Hi there! I'm Harper from ElevenLabs. How could...
+[3s] user: Just note down my email ID, which is R-O-H-A-N-K-A-C-H-H-A-P 56 at the rate gmail.com.
+[21s] agent: I'm sorry, but I'm unable to take down or store personal information such as email addresses. Is there something else I can...
+
+Gemini Summary for conv_01jxvwt4h4fqft57vbq310re4q:
+Email: rohankacchap56@gmail.com
+Summary: A user attempted to provide their email address (rohankacchap56@gmail.com) to an ElevenLabs agent, but the agent refused to record any personal information.
+
+Email Status for conv_01jxvwt4h4fqft57vbq310re4q: Success to rohankacchap56@gmail.com
+Conversation conv_01jxwsp50nfgr9rvwd71w99dpe Details:
+Conversation Details (ID: conv_01jxwsp50nfgr9rvwd71w99dpe):
+Status: done
+Start Time: 2025-06-16 22:08:16 IST
+Call Duration: 70 seconds
+Transcript:
+[0s] agent: Hello and thank you for calling Grand Horizon Hotel – this is Alexis at your service. How can I assist you today? I can help wit h...
+[8s] user: Uh...
+[11s] agent: I am here to...
+[11s] user: I have a problem in my hotel room.
+[14s] agent: I'm sorry to hear that. I'm here to help, what seems to be the issue in your room?
+[21s] user: Uh, like, my Wi-Fi is not working.
+[25s] agent: Okay, I understand. So, you're experiencing issues with the Wi-Fi in your room, is that right? Could you please provide your room number so I...
+[32s] user: Yes.
+[34s] agent: Okay...
+[34s] user: Yeah, 402
+[36s] agent: Got it - room four zero two. Is that correct?
+[40s] user: . Yes.
+[42s] agent: I'm terribly sorry about that. Let me alert our IT team right now. Someone will be there within fifteen minutes. Is there anything else I can assist you with while we address...
+[51s] user: No no.
+[53s] agent: Okay...
+[51s] user: ... Yeah it's fine.
+[56s] agent: Great. Our IT team will be reaching out shortly. Is there anything else I can help you with right now?
+[62s] user: No no
+[64s] agent: Okay, our IT team will reach out to you shortly. Have a great day!
+[64s] agent: No message (e.g., tool call)
+[64s] agent: No message (e.g., tool call)
+
+Gemini Summary for conv_01jxwsp50nfgr9rvwd71w99dpe:
+Email: None
+Summary: A hotel guest (in room 402) called to report a Wi-Fi issue. The hotel agent apologized, contacted the IT department, and assured the guest that someone would be there to fix the problem within 15 minutes.  The guest did not have any other issues.
+
+Email Status for conv_01jxwsp50nfgr9rvwd71w99dpe: Failed - No email sent to None
+Conversation conv_01jxz0v3ndf2nskqe0rcrxrk1b Details:
+Conversation Details (ID: conv_01jxz0v3ndf2nskqe0rcrxrk1b):
+Status: done
+Start Time: 2025-06-17 18:51:47 IST
+Call Duration: 49 seconds
+Transcript:
+[8s] user: Hello.
+[10s] agent: Hi there! How can I help you today?
+
+[16s] user: I want to book a hotel in Radisson Blu.
+[21s] agent: I am sorry, I cannot fulfill this request. I do not have the functionality to book hotels. Is there anything else I can help you with?
+
+[28s] user: Okay, I tell the receptionist in a
+[32s] agent: ...
+[28s] user: traditional blue hotel.
+[36s] agent: I am sorry, I am not...
+[37s] user: Act as a?
+[39s] agent: I am sorry, I am...
+[40s] user: Okay, cut the call.
+[47s] agent: No message (e.g., tool call)
+[47s] agent: No message (e.g., tool call)
+
+Gemini Summary for conv_01jxz0v3ndf2nskqe0rcrxrk1b:
+Email: None
+Summary: The user attempted to book a hotel at Radisson Blu through the agent, but the agent stated they lacked the functionality to do so.  The conversation then became unclear, with the user seemingly changing their request and ultimately ending the call.
+
+Email Status for conv_01jxz0v3ndf2nskqe0rcrxrk1b: Failed - No email sent to None
+Summary Email Status for conv_01jxz18dd9f6g9zqfvyxqf90k4 to ashimlugun09@gmail.com: Success
+Conversation conv_01jxz18dd9f6g9zqfvyxqf90k4 Details:
+Conversation Details (ID: conv_01jxz18dd9f6g9zqfvyxqf90k4):
+Status: done
+Start Time: 2025-06-17 18:59:03 IST
+Call Duration: 71 seconds
+Transcript:
+[4s] user: Hello.
+[5s] agent: Hi there! How can I help you today?
+
+[10s] user: I just want to book a hotel.
+[14s] agent: ...
+[10s] user: Hotel Road, the traditional hotel.
+[17s] agent: Okay, I can help you with that. Could you please provide me with the dates you're looking to book, and for how many people?
+
+[25s] user: I didn't hear you. Double my wait.
+[29s] agent: I am sorry, I didn't quite get that. Could you please clarify what you meant by 'double my wait'? Also, could you please provide me with the dates you're looking to book, and...
+[38s] user: I'm looking for a date tomorrow and looking for the people with four.
+[46s] agent: Okay, so you're looking to book a room at the Hotel Road, the traditional hotel, for tomorrow for four people. Could you please provide the exact date you're looking to book?
+
+[62s] user: Nothing. Cut the call.
+[69s] agent: ...
+
+Gemini Summary for conv_01jxz18dd9f6g9zqfvyxqf90k4:
+Email: None
+Summary: A user contacted a hotel booking agent to reserve a room at Hotel Road for four people tomorrow.  The user's communication was unclear, requiring the agent to repeatedly request the booking date. The conversation ended abruptly with the user requesting the call to be cut.
+
