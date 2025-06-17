@@ -11,6 +11,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 import logging
 from tenacity import retry, stop_after_attempt, wait_fixed, retry_if_exception_type
+import pytz
 
 # Configure logging
 logging.basicConfig(
@@ -247,6 +248,41 @@ def send_email(to_email, summary, conversation_id):
                 pass
 
 def display_conversation_details(conversation_data, conversation_id):
+    try:
+        transcript = conversation_data.get("transcript", [])
+        status = conversation_data.get("status", "Unknown")
+        start_time_unix = conversation_data.get("metadata", {}).get("start_time_unix_secs", 0)
+        call_duration = conversation_data.get("metadata", {}).get("call_duration_secs", 0)
+
+        # Convert UTC timestamp to IST using timezone-aware datetime
+        if start_time_unix:
+            utc_time = datetime.fromtimestamp(start_time_unix, tz=pytz.UTC)
+            ist_timezone = pytz.timezone('Asia/Kolkata')
+            ist_time = utc_time.astimezone(ist_timezone)
+            start_time = ist_time.strftime('%Y-%m-%d %H:%M:%S IST')
+        else:
+            start_time = "Unknown"
+
+        conversation_text = (
+            f"Conversation Details (ID: {conversation_id}):\nStatus: {status}\nStart Time: {start_time}\n"
+            f"Call Duration: {call_duration} seconds\nTranscript:\n"
+        )
+
+        if not transcript:
+            conversation_text += "No transcript available.\n"
+        else:
+            for entry in transcript:
+                role = entry.get("role", "Unknown")
+                message = entry.get("message", "") or "No message (e.g., tool call)"
+                time_in_call = entry.get("time_in_call_secs", 0)
+                conversation_text += f"[{time_in_call}s] {role}: {message}\n"
+        
+        logging.info(f"Displayed conversation details for {conversation_id}")
+        print(conversation_text)
+        return conversation_text, transcript
+    except Exception as e:
+        logging.error(f"Error displaying conversation details: {e}")
+        return f"Error displaying conversation details: {e}", []
     """Display and return conversation details."""
     try:
         transcript = conversation_data.get("transcript", [])
