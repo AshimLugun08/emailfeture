@@ -247,65 +247,8 @@ def send_email(to_email, summary, conversation_id):
             except:
                 pass
 
-def monitor_new_conversations(poll_interval=60):
-    last_conversation_id = get_last_conversation_id()
-    if last_conversation_id:
-        logging.info(f"Monitoring after ID: {last_conversation_id}")
-        print(f"Monitoring after ID: {last_conversation_id}")
-    else:
-        logging.info("No prior completed conversations found")
-        print("No prior completed conversations found")
-    
-    with open("conversation_emails.log", "a") as log_file:
-        while True:
-            conversations_data = fetch_conversations(page_size=1)
-            if not conversations_data or "conversations" not in conversations_data:
-                logging.warning("No conversations found")
-                print("No conversations found.")
-                time.sleep(poll_interval)
-                continue
-            
-            conversations = conversations_data["conversations"]
-            if not conversations:
-                logging.info("No new conversations")
-                print("No new conversations.")
-                time.sleep(poll_interval)
-                continue
-            
-            latest_conversation = conversations[0]
-            conversation_id = latest_conversation["conversation_id"]
-            
-            if conversation_id != last_conversation_id:
-                conversation_details = fetch_conversation_details(conversation_id)
-                if conversation_details and conversation_details.get("status") == "done":
-                    logging.info(f"New conversation: {conversation_id}")
-                    print(f"\nNew conversation (ID: {conversation_id}):")
-                    last_conversation_id = conversation_id
-                    
-                    conversation_text, email, gemini_response = process_conversation(conversation_details, conversation_id)
-                    
-                    if gemini_response:
-                        logging.info(f"Sending summary for conversation {conversation_id} to ashimlugun09@gmail.com")
-                        print(f"Sending summary for conversation {conversation_id} to ashimlugun09@gmail.com")
-                        summary_email_status, summary_email_error = send_email(
-                            "ashimlugun09@gmail.com", gemini_response, conversation_id
-                        )
-                        log_file.write(f"Summary Email Status for {conversation_id} to ashimlugun09@gmail.com: {'Success' if summary_email_status else f'Failed - {summary_email_error}'}\n")
-                        print(f"Summary Email Status to ashimlugun09@gmail.com: {'Success' if summary_email_status else f'Failed - {summary_email_error}'}")
-                    else:
-                        logging.warning(f"No Gemini summary to send for {conversation_id} to ashimlugun09@gmail.com")
-                        print(f"No Gemini summary to send for {conversation_id} to ashimlugun09@gmail.com")
-                    
-                    if email:
-                        log_file.write(f"Conversation {conversation_id}: {email}\n")
-                        print(f"Logged email for {conversation_id}: {email}")  # Add this
-                    log_file.write(f"Conversation {conversation_id} Details:\n{conversation_text}\n")
-                    print(f"Logged conversation details for {conversation_id}")  # Add this
-                    if gemini_response:
-                        log_file.write(f"Gemini Summary for {conversation_id}:\n{gemini_response}\n")
-                        print(f"Logged Gemini summary for {conversation_id}")  # Add this
-            
-            time.sleep(poll_interval)
+def display_conversation_details(conversation_data, conversation_id):
+    """Display and return conversation details."""
     try:
         transcript = conversation_data.get("transcript", [])
         status = conversation_data.get("status", "Unknown")
@@ -321,34 +264,6 @@ def monitor_new_conversations(poll_interval=60):
         else:
             start_time = "Unknown"
 
-        conversation_text = (
-            f"Conversation Details (ID: {conversation_id}):\nStatus: {status}\nStart Time: {start_time}\n"
-            f"Call Duration: {call_duration} seconds\nTranscript:\n"
-        )
-
-        if not transcript:
-            conversation_text += "No transcript available.\n"
-        else:
-            for entry in transcript:
-                role = entry.get("role", "Unknown")
-                message = entry.get("message", "") or "No message (e.g., tool call)"
-                time_in_call = entry.get("time_in_call_secs", 0)
-                conversation_text += f"[{time_in_call}s] {role}: {message}\n"
-        
-        logging.info(f"Displayed conversation details for {conversation_id}")
-        print(conversation_text)
-        return conversation_text, transcript
-    except Exception as e:
-        logging.error(f"Error displaying conversation details: {e}")
-        return f"Error displaying conversation details: {e}", []
-    """Display and return conversation details."""
-    try:
-        transcript = conversation_data.get("transcript", [])
-        status = conversation_data.get("status", "Unknown")
-        start_time_unix = conversation_data.get("metadata", {}).get("start_time_unix_secs", 0)
-        call_duration = conversation_data.get("metadata", {}).get("call_duration_secs", 0)
-
-        start_time = datetime.utcfromtimestamp(start_time_unix + 19800).strftime('%Y-%m-%d %H:%M:%S IST') if start_time_unix else "Unknown"
         conversation_text = (
             f"Conversation Details (ID: {conversation_id}):\nStatus: {status}\nStart Time: {start_time}\n"
             f"Call Duration: {call_duration} seconds\nTranscript:\n"
@@ -456,7 +371,6 @@ def monitor_new_conversations(poll_interval=60):
                     
                     conversation_text, email, gemini_response = process_conversation(conversation_details, conversation_id)
                     
-                    # Send summary to ashimlugun09@gmail.com
                     if gemini_response:
                         logging.info(f"Sending summary for conversation {conversation_id} to ashimlugun09@gmail.com")
                         print(f"Sending summary for conversation {conversation_id} to ashimlugun09@gmail.com")
@@ -471,9 +385,12 @@ def monitor_new_conversations(poll_interval=60):
                     
                     if email:
                         log_file.write(f"Conversation {conversation_id}: {email}\n")
+                        print(f"Logged email for {conversation_id}: {email}")
                     log_file.write(f"Conversation {conversation_id} Details:\n{conversation_text}\n")
+                    print(f"Logged conversation details for {conversation_id}")
                     if gemini_response:
                         log_file.write(f"Gemini Summary for {conversation_id}:\n{gemini_response}\n")
+                        print(f"Logged Gemini summary for {conversation_id}")
             
             time.sleep(poll_interval)
 

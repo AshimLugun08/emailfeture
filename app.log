@@ -2010,3 +2010,30 @@ Summary: A user contacted a hotel booking agent to reserve a room at Hotel Road 
 2025-06-17 19:00:36,844 - INFO - Sending summary for conversation conv_01jxz18dd9f6g9zqfvyxqf90k4 to ashimlugun09@gmail.com
 2025-06-17 19:00:46,989 - INFO - Email sent successfully to ashimlugun09@gmail.com
 2025-06-17 19:01:43,406 - INFO - Script interrupted by user
+2025-06-18 09:21:03,815 - INFO - SMTP credentials validated successfully
+2025-06-18 09:21:03,817 - INFO - Starting conversation monitoring
+2025-06-18 09:21:06,475 - INFO - Successfully fetched conversations
+2025-06-18 09:21:08,490 - INFO - Successfully fetched details for conversation conv_01jxznmtkpe66b98wkm16jqm2h
+2025-06-18 09:21:08,491 - INFO - Found last completed conversation: conv_01jxznmtkpe66b98wkm16jqm2h
+2025-06-18 09:21:08,492 - INFO - Monitoring after ID: conv_01jxznmtkpe66b98wkm16jqm2h
+2025-06-18 09:21:09,553 - INFO - Successfully fetched conversations
+2025-06-18 09:22:11,114 - INFO - Successfully fetched conversations
+2025-06-18 09:23:13,437 - INFO - Successfully fetched conversations
+2025-06-18 09:24:17,113 - INFO - Successfully fetched conversations
+2025-06-18 09:25:20,015 - INFO - Successfully fetched conversations
+2025-06-18 09:26:23,848 - INFO - Successfully fetched conversations
+2025-06-18 09:27:26,320 - INFO - Successfully fetched conversations
+2025-06-18 09:28:27,292 - INFO - Successfully fetched conversations
+2025-06-18 09:29:28,291 - INFO - Successfully fetched conversations
+2025-06-18 09:30:30,951 - INFO - Successfully fetched conversations
+2025-06-18 09:31:32,042 - INFO - Successfully fetched conversations
+2025-06-18 09:32:33,526 - INFO - Successfully fetched conversations
+2025-06-18 09:33:34,551 - INFO - Successfully fetched conversations
+2025-06-18 09:34:43,529 - ERROR - Error fetching conversations: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-06-18 09:34:43,529 - WARNING - No conversations found
+2025-06-18 09:36:23,416 - ERROR - Error fetching conversations: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-06-18 09:36:23,416 - WARNING - No conversations found
+2025-06-18 09:37:33,905 - ERROR - Error fetching conversations: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-06-18 09:37:33,905 - WARNING - No conversations found
+2025-06-18 09:38:56,694 - INFO - Successfully fetched conversations
+2025-06-18 09:39:31,481 - INFO - Script interrupted by user
